@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 🌍 Connect with Me
 
-- 
+- ⛓️ [LinkTree](https://linktr.ee/batis.abhari)
 - 💼 [LinkedIn](https://www.linkedin.com/in/batisabhari)
 - 🌐 [Portfolio](https://bold.pro/my/batis-abhari/194r)
 - 🐦 [Telegram](https://t.me/Batees)
