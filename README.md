@@ -60,12 +60,17 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 ## 🎓 Certifications
 
 - [**Practical Multi AI Agents and Advanced Use Cases with CrewAI**](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f) – DeepLearning.AI, May 2025
-- [**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481?usp=sharing) – DeepLearning.AI, Mar 2025 
-- **Blockchain Developer** – ConsenSys Academy, 2021
-- **Blockchain Specialization** – Coursera (University at Buffalo), 2019
-- **Smart Contracts & DApps** – Coursera, 2018
-- **Ethereum Blockchain Security** – Web3 Security Courses
-- **AI & Prompt Engineering Fundamentals** – Ongoing Self-Study & Research
+- [**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481) – DeepLearning.AI, Mar 2025 
+- [**AI & Prompt Engineering Fundamentals**](https://omp.dub.ai/certificate/2k2uZU1faFA4#) – Dubai Centre for Artificial Intelligence, 2025
+- [**ChatGPT Prompt Engineering for Developers**](https://learn.deeplearning.ai/accomplishments/e67839ab-3652-4d20-9dda-f2a222cce3a2) – DeepLearning.AI, 2025
+- **BlockChain Developer BootCamp** – ConsenSys Academy, 2021
+- [**BlockChain Developer**](https://confirm.udacity.com/UMLX4ARW) – Udacity, Oct. 2021
+- [**BlockChain Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/JV5VH8Y2X6N2) – Coursera (University at Buffalo), Feb. 2019
+- [**BlockChain Platforms**](https://www.coursera.org/account/accomplishments/certificate/B74BCUD7D7LG) – Coursera (University at Buffalo), Feb. 2019 
+- [**Decentralized Applications**](https://www.coursera.org/account/accomplishments/verify/ZYTQKH2ASS6Z) – Coursera (University at Buffalo), Dec. 2018
+- [**Smart Contracts**](https://www.coursera.org/account/accomplishments/verify/AS5B9TJ9BN7Z) – Coursera (University at Buffalo), Nov. 2018
+- [**BlockChain Basics**](https://www.coursera.org/account/accomplishments/verify/K2BLX95XK6UX) – Coursera (University at Buffalo), Oct. 2018
+- **Ethereum BlockChain Security** – Web3 Security Courses
 
 ---
 
