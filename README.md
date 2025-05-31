@@ -86,9 +86,9 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=baties&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=baties&show_icons=true&theme=radical&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baties&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baties&layout=compact&theme=radical&cache_seconds=3600)
 
 ---
 
