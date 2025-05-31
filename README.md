@@ -59,6 +59,8 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 🎓 Certifications
 
+- [**Practical Multi AI Agents and Advanced Use Cases with CrewAI**](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f) – DeepLearning.AI, May 2025
+- [**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481?usp=sharing) – DeepLearning.AI, Mar 2025 
 - **Blockchain Developer** – ConsenSys Academy, 2021
 - **Blockchain Specialization** – Coursera (University at Buffalo), 2019
 - **Smart Contracts & DApps** – Coursera, 2018
