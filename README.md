@@ -17,19 +17,19 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 💡 Skills
 
-### Blockchain & AI Development
+### 🧩 Blockchain & AI Development
 - Smart Contract Development (Solidity, AI-driven auditing)
 - Proxy Patterns (UUPS Proxy for Upgradeability)
 - DeFi Applications and Token Standards (ERC-20, ERC-721, ERC-1155)
 - Chainlink Oracles for external data integration
 - AI-driven security audits and automation
 
-### Backend & AI Integration
+### 🧩 Backend & AI Integration
 - Python (Django Framework), Node.js with TypeScript
 - AI-Powered automation in backend processes
 - Relational Database Design (PostgreSQL, MySQL, Redis)
 
-### Tools & Platforms
+### 🧩 Tools & Platforms
 - **Blockchain**: Hardhat, Truffle, Tenderly, OpenZeppelin
 - **AI & Automation**: AI-based security testing, Prompt Engineering, Cloud AI tools
 - **Virtualization**: Docker, VirtualBox
