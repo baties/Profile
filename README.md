@@ -19,21 +19,27 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ### 🧩 Blockchain & AI Development
 - Smart Contract Development (Solidity, AI-driven auditing)
-- Proxy Patterns (UUPS Proxy for Upgradeability)
+- DApp Builder (TypeScript - NodeJS)
+- Proxy Patterns (UUPS Proxy for Upgradeability) (OpenZeppelin)
 - DeFi Applications and Token Standards (ERC-20, ERC-721, ERC-1155)
 - Chainlink Oracles for external data integration
 - AI-driven security audits and automation
+- Blockchain Researcher & Consultant
 
 ### 🧩 Backend & AI Integration
 - Python (Django Framework), Node.js with TypeScript
-- AI-Powered automation in backend processes
-- Relational Database Design (PostgreSQL, MySQL, Redis)
+- AI-Powered Automation in Backend processes (Python)
+- Relational Database Design & TSql Programmer (MSSQL, PostgreSQL, MySQL, Redis)
+- Bot & MiniApp Developer (Python)
 
 ### 🧩 Tools & Platforms
 - **Blockchain**: Hardhat, Truffle, Tenderly, OpenZeppelin
-- **AI & Automation**: AI-based security testing, Prompt Engineering, Cloud AI tools
+- **EVM Base & ETH L2s & ZK Blockchains**: Ethereum, BNB Chain, Polygon, Arbitrum, Avalanche, zkSync
+- **AI, AI Agent & Automation**: AI-based security, Prompt Engineering, Cloud AI tools, CrewAI, n8n, ChatGPT
 - **Virtualization**: Docker, VirtualBox
-- **Team Collaboration**: Agile/Scrum Practices
+- **Team Collaboration**: Agile/ScrumMaster Best Practices, TeamLead
+- **Industrial Automation**: Delphi, MSSql 
+- **System Analysis**: UML
 
 ---
 
