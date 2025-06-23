@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 📂 Projects
 
-### DEX Automation AI Crew
+### 💽 DEX Automation AI Crew
 Jul 2024 - Present  
 *Associated with Smart Thinking Computer Systems*  
 - AI-Driven Crypto Trading & Market Analysis Team 
@@ -77,14 +77,14 @@ Revolutionizing crypto trading and automation with AI-powered.
 **Skills:** Artificial Intelligence (AI) · Python (Programming Language) · Django · Large Language Models (LLM) · TypeScript · Solidity · Smart Contracts.
 
 
-### T-Top App
+### 💽 T-Top App
 Oct 2020 - Nov 2022  
 *Associated with T-Top*
 
 **Skills:** BlockChain · Database Design · Python (Programming Language) · Transact-SQL (T-SQL) · Django · Agile Methodologies · Software Development · Scrum · Linux.
 
 
-### Timash
+### 💽 Timash
 Mar 2019 - Jun 2020  
 *Associated with Azaran Setareh Tirazees*  
 - An onLine Shopping Application For Mobile Users
@@ -92,7 +92,7 @@ Mar 2019 - Jun 2020
 **Skills:** Database Design · Python (Programming Language) · Transact-SQL (T-SQL) · Django · Agile Methodologies · Software Development · Scrum · Linux.
 
 
-### Management Information System & Software Automation For Chicken Slaughter Factories
+### 💽 Management Information System & Software Automation For Chicken Slaughter Factories
 May 2011 - Jun 2015  
 *Associated with Simin Software Co.*  
 
@@ -101,7 +101,7 @@ May 2011 - Jun 2015
 **Skills:** Database Design · Transact-SQL (T-SQL) · Software Development · Borland Delphi · Microsoft SQL Server
 
 
-### Accounting Software For Enterprise Organizations
+### 💽 Accounting Software For Enterprise Organizations
 Mar 2008 - Mar 2011  
 *Associated with Simin Software Co.*
 
@@ -110,7 +110,7 @@ Mar 2008 - Mar 2011
 **Skills:** Transact-SQL (T-SQL) · Software Development · Borland Delphi · Microsoft SQL Server
 
 
-### Product Management Software For Agriculture Companies
+### 💽 Product Management Software For Agriculture Companies
 Mar 2000 - Feb 2004  
 *Associated with Simin Software Co.*  
 
@@ -122,29 +122,29 @@ Mar 2000 - Feb 2004
 
 ## 🎓 Certifications
 
-- [**Practical Multi AI Agents and Advanced Use Cases with CrewAI**](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f) – DeepLearning.AI, May 2025
-- [**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481) – DeepLearning.AI, Mar 2025 
-- [**AI & Prompt Engineering Fundamentals**](https://omp.dub.ai/certificate/2k2uZU1faFA4#) – Dubai Centre for Artificial Intelligence, 2025
-- [**ChatGPT Prompt Engineering for Developers**](https://learn.deeplearning.ai/accomplishments/e67839ab-3652-4d20-9dda-f2a222cce3a2) – DeepLearning.AI, 2025
-- **BlockChain Developer BootCamp** – ConsenSys Academy, 2021
-- [**BlockChain Developer**](https://confirm.udacity.com/UMLX4ARW) – Udacity, Oct. 2021  
+- 📜[**Practical Multi AI Agents and Advanced Use Cases with CrewAI**](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f) – DeepLearning.AI, May 2025
+- 📜[**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481) – DeepLearning.AI, Mar 2025 
+- 📜[**AI & Prompt Engineering Fundamentals**](https://omp.dub.ai/certificate/2k2uZU1faFA4#) – Dubai Centre for Artificial Intelligence, 2025
+- 📜[**ChatGPT Prompt Engineering for Developers**](https://learn.deeplearning.ai/accomplishments/e67839ab-3652-4d20-9dda-f2a222cce3a2) – DeepLearning.AI, 2025
+- 📜**BlockChain Developer BootCamp** – ConsenSys Academy, 2021
+- 📜[**BlockChain Developer**](https://confirm.udacity.com/UMLX4ARW) – Udacity, Oct. 2021  
 **Skills:** Solidity · Smart Contracts · BlockChain. 
-- [**BlockChain Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/JV5VH8Y2X6N2) – Coursera (University at Buffalo), Feb. 2019 – Credential ID JV5VH8Y2X6N2  
+- 📜[**BlockChain Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/JV5VH8Y2X6N2) – Coursera (University at Buffalo), Feb. 2019 – Credential ID JV5VH8Y2X6N2  
 **Skills:** Solidity · Smart Contracts · BlockChain
-- [**BlockChain Platforms**](https://www.coursera.org/account/accomplishments/certificate/B74BCUD7D7LG) – Coursera (University at Buffalo), Feb. 2019 – Credential ID B74BCUD7D7LG  
+- 📜[**BlockChain Platforms**](https://www.coursera.org/account/accomplishments/certificate/B74BCUD7D7LG) – Coursera (University at Buffalo), Feb. 2019 – Credential ID B74BCUD7D7LG  
 **Skills:** Solidity · Smart Contracts · BlockChain. 
-- [**Decentralized Applications**](https://www.coursera.org/account/accomplishments/verify/ZYTQKH2ASS6Z) – Coursera (University at Buffalo), Dec. 2018 – Credential ID ZYTQKH2ASS6Z  
+- 📜[**Decentralized Applications**](https://www.coursera.org/account/accomplishments/verify/ZYTQKH2ASS6Z) – Coursera (University at Buffalo), Dec. 2018 – Credential ID ZYTQKH2ASS6Z  
 **Skills:** Solidity · Smart Contracts · BlockChain.
-- [**Smart Contracts**](https://www.coursera.org/account/accomplishments/verify/AS5B9TJ9BN7Z) – Coursera (University at Buffalo), Nov. 2018 – Credential ID AS5B9TJ9BN7Z  
+- 📜[**Smart Contracts**](https://www.coursera.org/account/accomplishments/verify/AS5B9TJ9BN7Z) – Coursera (University at Buffalo), Nov. 2018 – Credential ID AS5B9TJ9BN7Z  
 **Skills:** Solidity · Smart Contracts · BlockChain.
-- [**BlockChain Basics**](https://www.coursera.org/account/accomplishments/verify/K2BLX95XK6UX) – Coursera (University at Buffalo), Oct. 2018 – Credential ID K2BLX95XK6UX  
+- 📜[**BlockChain Basics**](https://www.coursera.org/account/accomplishments/verify/K2BLX95XK6UX) – Coursera (University at Buffalo), Oct. 2018 – Credential ID K2BLX95XK6UX  
 **Skills:** Solidity · Smart Contracts · BlockChain.
-- [**Certificate of Completion: Java Course**](http://www.sololearn.com/Profile/424166/) – Sololearn, Jun 2016 – Credential ID 1068-424166  
-- [**Programming Cloud Services for Android Handheld Systems: Security**](https://www.coursera.org/account/accomplishments/verify/WE4Z8FP34N) – Coursera, Sep. 2015 – Credential ID WE4Z8FP34N
-- [**Programming Cloud Services for Android Handheld Systems: Spring**](https://www.coursera.org/account/accomplishments/verify/N9DM5BWWZD) – Coursera, Jul. 2015 – Credential ID N9DM5BWWZD 
-- [**Programming Mobile Services for Android Handheld Systems: Communication**](https://www.coursera.org/account/accomplishments/verify/BESBCYPWD7) – Coursera, Jun. 2015 – Credential ID BESBCYPWD7  
-- [**Programming Mobile Services for Android Handheld Systems: Concurrency**](https://www.coursera.org/account/accomplishments/verify/5LVVWCYEYB) – Coursera, Apr 2015 – Credential ID 5LVVWCYEYB  
-- [**Programming Mobile Applications for Android Handheld Systems**](https://www.coursera.org/account/accomplishments/verify/ZYVB5NGKRF) – Coursera, Nov 2014 – Credential ID ZYVB5NGKRF 
+- 📜[**Certificate of Completion: Java Course**](http://www.sololearn.com/Profile/424166/) – Sololearn, Jun 2016 – Credential ID 1068-424166  
+- 📜[**Programming Cloud Services for Android Handheld Systems: Security**](https://www.coursera.org/account/accomplishments/verify/WE4Z8FP34N) – Coursera, Sep. 2015 – Credential ID WE4Z8FP34N
+- 📜[**Programming Cloud Services for Android Handheld Systems: Spring**](https://www.coursera.org/account/accomplishments/verify/N9DM5BWWZD) – Coursera, Jul. 2015 – Credential ID N9DM5BWWZD 
+- 📜[**Programming Mobile Services for Android Handheld Systems: Communication**](https://www.coursera.org/account/accomplishments/verify/BESBCYPWD7) – Coursera, Jun. 2015 – Credential ID BESBCYPWD7  
+- 📜[**Programming Mobile Services for Android Handheld Systems: Concurrency**](https://www.coursera.org/account/accomplishments/verify/5LVVWCYEYB) – Coursera, Apr 2015 – Credential ID 5LVVWCYEYB  
+- 📜[**Programming Mobile Applications for Android Handheld Systems**](https://www.coursera.org/account/accomplishments/verify/ZYVB5NGKRF) – Coursera, Nov 2014 – Credential ID ZYVB5NGKRF 
 
 ---
 
@@ -249,7 +249,7 @@ Tehran, Iran
 
 ---
 
-## 📚 Education
+## 📖 Education
 
 ***Mazandaran University of Science and Technology***  
 Bachelor, Chemistry
