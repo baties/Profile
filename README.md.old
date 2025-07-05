@@ -6,88 +6,42 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 🚀 About Me
 
-- 🔗 **DEX & Aggregator Specialist**: Architect of cross-chain swap platforms, tokenomics models, and DeFi infrastructure across Ethereum, BNB Chain, and L2s.
-- 🤖 **AI & Web3 Innovator**: Expert in AI-driven security automation using CrewAI, n8n, and LLMs for blockchain threat detection and auditing.
-- 💻 **Backend Engineering**: Strong background in Python (Django) and Node.js (TypeScript) for scalable backend systems and REST APIs.
-- 🔐 **Security-Focused Smart Contract Developer**: Focused on Solidity auditing, gas optimization, and OpenZeppelin best practices.
-- 🧩 **Leadership & Delivery**: Successful track record as CTO, Project Manager, and Scrum Master in delivering scalable blockchain and enterprise platforms.
-- 🌐 **Multichain Visionary**: Experienced in DApp deployment, tokenized ecosystems, and cross-chain integrations using bridges and abstracted protocols.
+- 🔗 **Blockchain & AI Expert**: Specialized in smart contract development, blockchain security, and AI-driven automation in Web3.
+- 💻 **Backend Development**: Skilled in Python (Django), Node.js (TypeScript), and designing high-performance APIs and database systems.
+- 🔐 **Security-Focused**: Proficient in smart contract auditing, gas optimization, and OpenZeppelin security best practices.
+- 🛠️ **Tools & Frameworks**: Experienced with Hardhat, Truffle, Tenderly, OpenZeppelin, and AI-powered security tools.
+- 🧩 **Leadership**: Proven success in leading cross-functional teams as a CTO, Project Manager, and Scrum Master.
+- 🤖 **AI Enthusiast**: Passionate about AI and Prompt Engineering, continuously exploring AI integration in blockchain security and automation.
 
 ---
 
 ## 💡 Skills
 
-### Blockchain & Smart Contracts
-- Chainlink
-- CrowdSwap
-- DeFi Applications
-- ERC-1155
-- ERC-20
-- ERC-721
-- Proxy Patterns
-- Smart Contract Development
-- Solidity
-- Tokenomics
+### 🧩 Blockchain & AI Development
+- Smart Contract Development (Solidity, AI-driven auditing)
+- DApp Builder (TypeScript - NodeJS)
+- Proxy Patterns (UUPS Proxy for Upgradeability) (OpenZeppelin)
+- DeFi Applications and Token Standards (ERC-20, ERC-721, ERC-1155)
+- Chainlink Oracles for external data integration
+- AI-driven security audits and automation
+- Blockchain Researcher & Consultant
 
-### AI & Automation
-- AI Agents
-- AI-Powered Automation
-- AI-driven auditing
-- ChatGPT
-- CrewAI
-- LLM Integration
-- Prompt Engineering
-- n8n
+### 🧩 Backend & AI Integration
+- Python (Django Framework), Node.js with TypeScript
+- AI-Powered Automation in Backend processes (Python)
+- Relational Database Design & TSql Programmer (MSSQL, PostgreSQL, MySQL, Redis)
+- Bot & MiniApp Developer (Python)
 
-### Backend Development
-- Django
-- MSSQL
-- MySQL
-- Node.js
-- PostgreSQL
-- Python
-- REST API
-- Redis
-- T-SQL
-- TypeScript
+### 🧩 Tools & Platforms
+- **Blockchain**: Hardhat, Truffle, Tenderly, OpenZeppelin
+- **EVM Base & ETH L2s & ZK Blockchains**: Ethereum, BNB Chain, Polygon, Arbitrum, Avalanche, zkSync
+- **AI, AI Agent & Automation**: AI-based security, Prompt Engineering, Cloud AI tools, CrewAI, n8n, ChatGPT
+- **Virtualization**: Docker, VirtualBox
+- **Team Collaboration**: Agile/ScrumMaster Best Practices, TeamLead
+- **Industrial Automation**: Delphi, MSSql 
+- **System Analysis**: UML
 
-### Tools & DevOps
-- Docker
-- Git
-- Hardhat
-- Linux
-- OpenZeppelin
-- Tenderly
-- Truffle
-- VirtualBox
-
-### Web3 & Blockchain Platforms
-- Arbitrum
-- Avalanche
-- BNB Chain
-- Ethereum
-- Polygon
-- zkSync
-
-### Project Management & Analysis
-- Agile
-- ScrumMaster
-- System Analysis
-- TeamLead
-- UML
-
-### Legacy & Industrial
-- Borland Delphi
-- Industrial Automation
-- Microsoft SQL Server
-- Network Security
-- VoIP
-
-### Other
-- Code Review
-- Object-Oriented Programming (OOP)
-- Security
-- Software Development
+---
 
 ## 📂 Featured Projects
 
@@ -174,29 +128,29 @@ Mar 2000 - Feb 2004
 
 ## 🎓 Certifications
 
-- 📜 [**Practical Multi AI Agents and Advanced Use Cases with CrewAI**](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f) – DeepLearning.AI, May 2025  
-- 📜 [**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481) – DeepLearning.AI, Mar 2025   
-- 📜 [**AI & Prompt Engineering Fundamentals**](https://omp.dub.ai/certificate/2k2uZU1faFA4#) – Dubai Centre for Artificial Intelligence, 2025  
-- 📜 [**ChatGPT Prompt Engineering for Developers**](https://learn.deeplearning.ai/accomplishments/e67839ab-3652-4d20-9dda-f2a222cce3a2) – DeepLearning.AI, 2025  
+- 📜[**Practical Multi AI Agents and Advanced Use Cases with CrewAI**](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f) – DeepLearning.AI, May 2025
+- 📜[**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481) – DeepLearning.AI, Mar 2025 
+- 📜[**AI & Prompt Engineering Fundamentals**](https://omp.dub.ai/certificate/2k2uZU1faFA4#) – Dubai Centre for Artificial Intelligence, 2025
+- 📜[**ChatGPT Prompt Engineering for Developers**](https://learn.deeplearning.ai/accomplishments/e67839ab-3652-4d20-9dda-f2a222cce3a2) – DeepLearning.AI, 2025
 - 📜**BlockChain Developer BootCamp** – ConsenSys Academy, 2021
-- 📜 [**BlockChain Developer**](https://confirm.udacity.com/UMLX4ARW) – Udacity, Oct. 2021    
+- 📜[**BlockChain Developer**](https://confirm.udacity.com/UMLX4ARW) – Udacity, Oct. 2021  
 **Skills:** Solidity · Smart Contracts · BlockChain. 
-- 📜 [**BlockChain Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/JV5VH8Y2X6N2) – Coursera (University at Buffalo), Feb. 2019 – Credential ID JV5VH8Y2X6N2    
+- 📜[**BlockChain Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/JV5VH8Y2X6N2) – Coursera (University at Buffalo), Feb. 2019 – Credential ID JV5VH8Y2X6N2  
 **Skills:** Solidity · Smart Contracts · BlockChain
-- 📜 [**BlockChain Platforms**](https://www.coursera.org/account/accomplishments/certificate/B74BCUD7D7LG) – Coursera (University at Buffalo), Feb. 2019 – Credential ID B74BCUD7D7LG    
+- 📜[**BlockChain Platforms**](https://www.coursera.org/account/accomplishments/certificate/B74BCUD7D7LG) – Coursera (University at Buffalo), Feb. 2019 – Credential ID B74BCUD7D7LG  
 **Skills:** Solidity · Smart Contracts · BlockChain. 
-- 📜 [**Decentralized Applications**](https://www.coursera.org/account/accomplishments/verify/ZYTQKH2ASS6Z) – Coursera (University at Buffalo), Dec. 2018 – Credential ID ZYTQKH2ASS6Z    
+- 📜[**Decentralized Applications**](https://www.coursera.org/account/accomplishments/verify/ZYTQKH2ASS6Z) – Coursera (University at Buffalo), Dec. 2018 – Credential ID ZYTQKH2ASS6Z  
 **Skills:** Solidity · Smart Contracts · BlockChain.
-- 📜 [**Smart Contracts**](https://www.coursera.org/account/accomplishments/verify/AS5B9TJ9BN7Z) – Coursera (University at Buffalo), Nov. 2018 – Credential ID AS5B9TJ9BN7Z    
+- 📜[**Smart Contracts**](https://www.coursera.org/account/accomplishments/verify/AS5B9TJ9BN7Z) – Coursera (University at Buffalo), Nov. 2018 – Credential ID AS5B9TJ9BN7Z  
 **Skills:** Solidity · Smart Contracts · BlockChain.
-- 📜 [**BlockChain Basics**](https://www.coursera.org/account/accomplishments/verify/K2BLX95XK6UX) – Coursera (University at Buffalo), Oct. 2018 – Credential ID K2BLX95XK6UX    
+- 📜[**BlockChain Basics**](https://www.coursera.org/account/accomplishments/verify/K2BLX95XK6UX) – Coursera (University at Buffalo), Oct. 2018 – Credential ID K2BLX95XK6UX  
 **Skills:** Solidity · Smart Contracts · BlockChain.
-- 📜 [**Certificate of Completion: Java Course**](http://www.sololearn.com/Profile/424166/) – Sololearn, Jun 2016 – Credential ID 1068-424166    
-- 📜 [**Programming Cloud Services for Android Handheld Systems: Security**](https://www.coursera.org/account/accomplishments/verify/WE4Z8FP34N) – Coursera, Sep. 2015 – Credential ID WE4Z8FP34N  
-- 📜 [**Programming Cloud Services for Android Handheld Systems: Spring**](https://www.coursera.org/account/accomplishments/verify/N9DM5BWWZD) – Coursera, Jul. 2015 – Credential ID N9DM5BWWZD   
-- 📜 [**Programming Mobile Services for Android Handheld Systems: Communication**](https://www.coursera.org/account/accomplishments/verify/BESBCYPWD7) – Coursera, Jun. 2015 – Credential ID BESBCYPWD7    
-- 📜 [**Programming Mobile Services for Android Handheld Systems: Concurrency**](https://www.coursera.org/account/accomplishments/verify/5LVVWCYEYB) – Coursera, Apr 2015 – Credential ID 5LVVWCYEYB    
-- 📜 [**Programming Mobile Applications for Android Handheld Systems**](https://www.coursera.org/account/accomplishments/verify/ZYVB5NGKRF) – Coursera, Nov 2014 – Credential ID ZYVB5NGKRF   
+- 📜[**Certificate of Completion: Java Course**](http://www.sololearn.com/Profile/424166/) – Sololearn, Jun 2016 – Credential ID 1068-424166  
+- 📜[**Programming Cloud Services for Android Handheld Systems: Security**](https://www.coursera.org/account/accomplishments/verify/WE4Z8FP34N) – Coursera, Sep. 2015 – Credential ID WE4Z8FP34N
+- 📜[**Programming Cloud Services for Android Handheld Systems: Spring**](https://www.coursera.org/account/accomplishments/verify/N9DM5BWWZD) – Coursera, Jul. 2015 – Credential ID N9DM5BWWZD 
+- 📜[**Programming Mobile Services for Android Handheld Systems: Communication**](https://www.coursera.org/account/accomplishments/verify/BESBCYPWD7) – Coursera, Jun. 2015 – Credential ID BESBCYPWD7  
+- 📜[**Programming Mobile Services for Android Handheld Systems: Concurrency**](https://www.coursera.org/account/accomplishments/verify/5LVVWCYEYB) – Coursera, Apr 2015 – Credential ID 5LVVWCYEYB  
+- 📜[**Programming Mobile Applications for Android Handheld Systems**](https://www.coursera.org/account/accomplishments/verify/ZYVB5NGKRF) – Coursera, Nov 2014 – Credential ID ZYVB5NGKRF 
 
 ---
 
