@@ -112,26 +112,44 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 📂 Projects
 
-### 💽 DEX Automation AI Crew
+### 💽 Crypto Automation AI Crew (Bots): 
+
+**A) Arbitrage Bot**  
+**B) Solana Snipper Bot**  
+**C) Hyperliquid MarketMaker Bot**  
+**D) Hyperliquid MicroTrader Bot**  
+
 Jul 2024 - Present  
 *Associated with Smart Thinking Computer Systems*  
 - AI-Driven Crypto Trading & Market Analysis Team 
 
 A powerful AI-driven team designed for crypto trading and market analysis, capable of working independently or collaboratively to optimize trading strategies. Our AI solutions include: 
 
-✅ Solana AI Trader – Automated AI-based trading on the Solana blockchain.  
-✅ AI DEX Arbitrage Bot – Finds and executes profitable arbitrage opportunities across DEXs.  
-✅ DEX Telegram Bot with AI Operator – AI-powered trading bot integrated with Telegram for real-time execution.  
-✅ AI Market Analyzer Bot – Analyzes market trends and price movements for strategic insights. 
+✅ Solana AI Trader: Automated AI-based trading on the Solana blockchain.  
+✅ AI DEX Arbitrage Bot: Finds and executes profitable arbitrage opportunities across DEXs.  
+✅ DEX Telegram Bot with AI Operator: AI-powered trading bot integrated with Telegram for real-time execution.  
+✅ AI Market Analyzer Bot: Analyzes market trends and price movements for strategic insights. 
 
 Revolutionizing crypto trading and automation with AI-powered.
 
 **Skills:** Artificial Intelligence (AI) · Python (Programming Language) · Django · Large Language Models (LLM) · TypeScript · Solidity · Smart Contracts.
 
 
+### 💽 CrowdSwap DEX Aggregator + Support Bot AI Agent
+Nov 2022 - March 2024
+*Associated with IT-Street Company*
+
+✅ CrowdSwap DEX aggregator: best-price-routing and aggregation protocol for decentralized finance (DeFi).
+✅ Support Bot: A 24/7 AI‑powered assistant for Discord users.
+
+**Skills:** TypeScript · Solidity · Smart Contracts . Python (Programming Language) · Django · Large Language Models (LLM).
+
+
 ### 💽 T-Top App
 Oct 2020 - Nov 2022  
 *Associated with T-Top*
+
+- An onLine marketplace platform connecting buyers and sellers, offering intuitive tools for seamless store creation.
 
 **Skills:** BlockChain · Database Design · Python (Programming Language) · Transact-SQL (T-SQL) · Django · Agile Methodologies · Software Development · Scrum · Linux.
 
@@ -139,7 +157,8 @@ Oct 2020 - Nov 2022
 ### 💽 Timash
 Mar 2019 - Jun 2020  
 *Associated with Azaran Setareh Tirazees*  
-- An onLine Shopping Application For Mobile Users
+
+- An onLine Shopping Application For Mobile Users.
 
 **Skills:** Database Design · Python (Programming Language) · Transact-SQL (T-SQL) · Django · Agile Methodologies · Software Development · Scrum · Linux.
 
