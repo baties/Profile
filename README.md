@@ -328,6 +328,10 @@ Bachelor, Chemistry
 
 - Activities and societies: American Chemical Society
 
+**Shiraz University E-Learning Center**
+Bachelor of Engineering, Computer Software Engineering
+2001 - 2005
+
 ---
 
 ## 🌍 Connect with Me
