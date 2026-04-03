@@ -118,7 +118,8 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 Jan 2025 - Present
 *Associated with Smart Thinking Computer Systems*  
 
-✅ **OpenEscrow** – A milestone-based on-chain escrow platform built for Web3 freelancers and teams, enabling structured agreements, secure fund release flows, SIWE authentication, and Telegram-integrated actions for streamlined coordination.
+✅ **OpenEscrow** – A milestone-based on-chain escrow platform built for Web3 freelancers and teams, enabling structured agreements, secure fund release flows, SIWE authentication, and Telegram-integrated actions for streamlined coordination.  
+🔗 https://openescrow.smarthinking.tech/
 
 ✅ **Solidity_Audit_AI_Assistant** – An AI-powered Solidity security analysis tool that reviews GitHub repositories or deployed contract addresses to identify vulnerabilities, generate risk assessments, and provide remediation guidance for more secure smart contract development.
 
@@ -153,7 +154,8 @@ A powerful AI-driven team designed for crypto trading and market analysis, capab
 
 ### 💽 CrowdSwap DEX Aggregator + Support Bot AI Agent
 Nov 2022 - March 2024
-*Associated with IT-Street Company*
+*Associated with IT-Street Company*  
+🔗 https://app.crowdswap.org/exchange
 
 ✅ CrowdSwap DEX aggregator: best-price-routing and aggregation protocol for decentralized finance (DeFi).
 ✅ Support Bot: A 24/7 AI‑powered assistant for Discord users.
