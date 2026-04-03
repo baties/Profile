@@ -133,7 +133,7 @@ Jan 2025 - Present
 **C) Hyperliquid MarketMaker Bot**  
 **D) Hyperliquid MicroTrader Bot**  
 
-Jul 2024 - Present  
+Jul 2024 - Present    
 *Associated with Smart Thinking Computer Systems*  
 - AI-Driven Crypto Trading & Market Analysis Team 
 
