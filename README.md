@@ -115,7 +115,7 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ### 💽 OpenEscrow & Solidity_Audit_AI_Assistant:
 
-Jan 2025 - Present
+Jan 2025 - Present.   
 *Associated with Smart Thinking Computer Systems*  
 
 ✅ **OpenEscrow** – A milestone-based on-chain escrow platform built for Web3 freelancers and teams, enabling structured agreements, secure fund release flows, SIWE authentication, and Telegram-integrated actions for streamlined coordination.  
@@ -133,7 +133,7 @@ Jan 2025 - Present
 **C) Hyperliquid MarketMaker Bot**  
 **D) Hyperliquid MicroTrader Bot**  
 
-Jul 2024 - Present    
+Jul 2024 - Present.          
 *Associated with Smart Thinking Computer Systems*  
 - AI-Driven Crypto Trading & Market Analysis Team 
 
@@ -153,7 +153,7 @@ A powerful AI-driven team designed for crypto trading and market analysis, capab
 
 
 ### 💽 CrowdSwap DEX Aggregator + Support Bot AI Agent
-Nov 2022 - March 2024
+Nov 2022 - March 2024.
 *Associated with IT-Street Company*  
 🔗 https://app.crowdswap.org/exchange
 
@@ -164,7 +164,7 @@ Nov 2022 - March 2024
 
 
 ### 💽 T-Top App
-Oct 2020 - Nov 2022  
+Oct 2020 - Nov 2022.  
 *Associated with T-Top*
 
 - An onLine marketplace platform connecting buyers and sellers, offering intuitive tools for seamless store creation.
@@ -173,7 +173,7 @@ Oct 2020 - Nov 2022
 
 
 ### 💽 Timash
-Mar 2019 - Jun 2020  
+Mar 2019 - Jun 2020.  
 *Associated with Azaran Setareh Tirazees*  
 
 - An onLine Shopping Application For Mobile Users.
@@ -182,7 +182,7 @@ Mar 2019 - Jun 2020
 
 
 ### 💽 Management Information System & Software Automation For Chicken Slaughter Factories
-May 2011 - Jun 2015  
+May 2011 - Jun 2015.  
 *Associated with Simin Software Co.*  
 
 - Management Information System & Software Automation For Chicken Slaughter Factories
@@ -191,7 +191,7 @@ May 2011 - Jun 2015
 
 
 ### 💽 Accounting Software For Enterprise Organizations
-Mar 2008 - Mar 2011  
+Mar 2008 - Mar 2011.  
 *Associated with Simin Software Co.*
 
 - A Microsoft Windows base Accounting Software For Organizations for Enterprise 
@@ -200,7 +200,7 @@ Mar 2008 - Mar 2011
 
 
 ### 💽 Product Management Software For Agriculture Companies
-Mar 2000 - Feb 2004  
+Mar 2000 - Feb 2004.  
 *Associated with Simin Software Co.*  
 
 - Product Management Software For Agriculture Companies
