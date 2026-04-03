@@ -112,6 +112,19 @@ Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer
 
 ## 📂 Projects
 
+
+### 💽 OpenEscrow & Solidity_Audit_AI_Assistant:
+
+Jan 2025 - Present
+*Associated with Smart Thinking Computer Systems*  
+
+✅ **OpenEscrow** – A milestone-based on-chain escrow platform built for Web3 freelancers and teams, enabling structured agreements, secure fund release flows, SIWE authentication, and Telegram-integrated actions for streamlined coordination.
+
+✅ **Solidity_Audit_AI_Assistant** – An AI-powered Solidity security analysis tool that reviews GitHub repositories or deployed contract addresses to identify vulnerabilities, generate risk assessments, and provide remediation guidance for more secure smart contract development.
+
+**Skills:** Solidity · TypeScript · Next.js · Fastify · PostgreSQL · Smart Contract Security · AI Agents · LLM Integration · Hardhat · OpenZeppelin · Telegram Bots
+
+
 ### 💽 Crypto Automation AI Crew (Bots): 
 
 **A) Arbitrage Bot**  
@@ -128,7 +141,7 @@ A powerful AI-driven team designed for crypto trading and market analysis, capab
 ✅ Solana AI Trader: Automated AI-based trading on the Solana blockchain.  
 ✅ AI DEX Arbitrage Bot: Finds and executes profitable arbitrage opportunities across DEXs.  
 ✅ DEX Telegram Bot with AI Operator: AI-powered trading bot integrated with Telegram for real-time execution.  
-✅ AI Market Analyzer Bot: Analyzes market trends and price movements for strategic insights. 
+✅ AI Market Analyzer Bot: Analyzes market trends and price movements for strategic insights.  
 ✅ Built and refined automated trading bots for the Hyperliquid ecosystem, including market-making and micro-trading strategies. 
 
 - Focused on execution speed, order management, risk controls, and real-time market analysis to improve trading performance and automation reliability. 
