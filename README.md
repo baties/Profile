@@ -129,10 +129,13 @@ A powerful AI-driven team designed for crypto trading and market analysis, capab
 ✅ AI DEX Arbitrage Bot: Finds and executes profitable arbitrage opportunities across DEXs.  
 ✅ DEX Telegram Bot with AI Operator: AI-powered trading bot integrated with Telegram for real-time execution.  
 ✅ AI Market Analyzer Bot: Analyzes market trends and price movements for strategic insights. 
+✅ Built and refined automated trading bots for the Hyperliquid ecosystem, including market-making and micro-trading strategies. 
 
-Revolutionizing crypto trading and automation with AI-powered.
+- Focused on execution speed, order management, risk controls, and real-time market analysis to improve trading performance and automation reliability. 
+- Explored AI-assisted strategy optimization and bot orchestration for scalable crypto trading operations.
+- Revolutionizing crypto trading and automation with AI-powered.
 
-**Skills:** Artificial Intelligence (AI) · Python (Programming Language) · Django · Large Language Models (LLM) · TypeScript · Solidity · Smart Contracts.
+**Skills:** Artificial Intelligence (AI) · Python (Programming Language) · Django · Large Language Models (LLM) · TypeScript · Solidity · Smart Contracts · Algorithmic Trading · Crypto Automation.
 
 
 ### 💽 CrowdSwap DEX Aggregator + Support Bot AI Agent
