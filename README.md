@@ -1,373 +1,342 @@
-# Hi, I'm Batis Abhari 👋
+# Batis Abhari
 
-Welcome to my GitHub profile! I'm a **Blockchain Developer**, **Backend Engineer**, **AI & Web3 Enthusiast**, and **Team Lead** with over 29 years of experience in software development. Below, you can learn more about my background, skills, and projects.
+## Smart Contract Technical Lead | Senior Solidity Engineer
+
+**Blockchain Security • DeFi • EVM • Technical Leadership**
+
+![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contracts-363636?logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-EVM-3C3C3D?logo=ethereum)
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Web3%20Integration-3178C6?logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Infrastructure-2496ED?logo=docker&logoColor=white)
+![Security](https://img.shields.io/badge/Focus-Blockchain%20Security-0A66C2)
+![Remote](https://img.shields.io/badge/Open%20to-Remote%20Opportunities-14A800)
+
+
+Hands-on Smart Contract Technical Lead and Senior Solidity Engineer with **7+ years of blockchain and Web3 experience**, backed by extensive software engineering and technical leadership experience.
+
+Experienced in designing, developing, deploying, reviewing, securing, and integrating Solidity smart contracts across EVM-compatible networks, with a strong focus on **DeFi, blockchain security, scalable architecture, and production reliability**.
+
+My work combines hands-on engineering with technical leadership: architecture, development, debugging, code review, security analysis, backend integration, technical decision-making, and team delivery.
 
 ---
 
-## 🚀 About Me
+# 🎯 Professional Focus
 
-- 🔗 **DEX & Aggregator Specialist**: Architect of cross-chain swap platforms, tokenomics models, and DeFi infrastructure across Ethereum, BNB Chain, and L2s.
-- 🤖 **AI & Web3 Innovator**: Expert in AI-driven security automation using CrewAI, n8n, and LLMs for blockchain threat detection and auditing.
-- 💻 **Backend Engineering**: Strong background in Python (Django) and Node.js (TypeScript) for scalable backend systems and REST APIs.
-- 🔐 **Security-Focused Smart Contract Developer**: Focused on Solidity auditing, gas optimization, and OpenZeppelin best practices.
-- 🧩 **Leadership & Delivery**: Successful track record as CTO, Project Manager, and Scrum Master in delivering scalable blockchain and enterprise platforms.
-- 🌐 **Multichain Visionary**: Experienced in DApp deployment, tokenized ecosystems, and cross-chain integrations using bridges and abstracted protocols.
-
----
-
-## 💡 Skills
-
-### Blockchain & Smart Contracts
-- Chainlink
-- CrowdSwap
-- DeFi Applications
-- ERC-1155
-- ERC-20
-- ERC-721
-- Proxy Patterns
-- Smart Contract Development
+### ⛓️ Smart Contracts & EVM
 - Solidity
-- Tokenomics
-
-### AI & Automation
-- AI Agents
-- AI-Powered Automation
-- AI-driven auditing
-- ChatGPT
-- CrewAI
-- LLM Integration
-- Prompt Engineering
-- n8n
-
-### Backend Development
-- Django
-- MSSQL
-- MySQL
-- Node.js
-- PostgreSQL
-- Python
-- REST API
-- Redis
-- T-SQL
-- TypeScript
-
-### Tools & DevOps
-- Docker
-- Git
+- Smart contract architecture
+- EVM-compatible networks
+- Contract deployment and integration
+- ERC-20 / ERC-721 / ERC-1155
+- OpenZeppelin patterns
 - Hardhat
-- Linux
-- OpenZeppelin
 - Tenderly
-- Truffle
-- VirtualBox
+- Etherscan
+- DeFi and DApp development
 
-### Web3 & Blockchain Platforms
-- Arbitrum
-- Avalanche
-- BNB Chain
-- Ethereum
-- Polygon
-- zkSync
+### 🛡️ Blockchain Security
+- Smart contract security review
+- Static and AI-assisted analysis
+- Vulnerability detection
+- Access control and trust-boundary analysis
+- Adversarial reasoning
+- Attack scenario modeling
+- Security remediation guidance
+- Code review and debugging
 
-### Project Management & Analysis
-- Agile
-- ScrumMaster
-- System Analysis
-- TeamLead
-- UML
+### ⚙️ Backend & Infrastructure
+- Python
+- Django
+- Node.js
+- TypeScript
+- PostgreSQL
+- SQL
+- REST APIs
+- Docker
+- Linux
+- CI/CD
+- Distributed backend integration
 
-### Legacy & Industrial
-- Borland Delphi
-- Industrial Automation
-- Microsoft SQL Server
-- Network Security
-- VoIP
+### 👥 Technical Leadership
+- System architecture
+- Technical planning
+- Code review
+- Engineering guidance
+- Debugging and delivery
+- Agile / Scrum collaboration
+- Cross-functional technical coordination
 
-### Other
-- Code Review
-- Object-Oriented Programming (OOP)
-- Security
-- Software Development
+### 🤖 AI & Automation
+AI is a supporting capability within my current blockchain and security work rather than my primary professional identity.
 
-## 📂 Featured Projects
-
-### 🏦 [Decentralized Finance (DeFi) Application](#)
-- Designed and deployed secure smart contracts for a DeFi platform on Ethereum Mainnet.
-- Integrated AI-driven security audits to enhance contract security.
-- Implemented Chainlink oracles for real-time price feeds.
-- Used OpenZeppelin’s security framework to prevent vulnerabilities.
-
-### 🤖 [AI-Powered Blockchain Security Tool](#)
-- Developed an AI-enhanced auditing tool for smart contract security analysis.
-- Implemented machine learning techniques to detect vulnerabilities in Solidity contracts.
-- Improved blockchain security automation by reducing manual review efforts.
-
-### 🔗 [Cross-Chain Token Bridge](#)
-- Built a token bridge for transferring assets between Ethereum and BNB Smart Chain.
-- Utilized proxy patterns for upgradeability and state preservation.
-- Implemented AI-enhanced monitoring for transaction security.
-
+- AI-assisted smart contract analysis
+- Multi-agent security workflows
+- CrewAI
+- LLM integration
+- Automation for technical and security processes
 
 ---
 
-## 📂 Projects
+# 🚀 Selected Projects
 
+## 🔐 OpenEscrow
+**Associated with SmartThinking**
 
-### 💽 OpenEscrow & Solidity_Audit_AI_Assistant:
+Repository: https://github.com/baties/OpenEscrow
 
-Jan 2025 - Present.   
-*Associated with Smart Thinking Computer Systems*  
+Open-source milestone-based Web3 escrow platform for freelancers and blockchain projects.
 
-✅ **OpenEscrow** – A milestone-based on-chain escrow platform built for Web3 freelancers and teams, enabling structured agreements, secure fund release flows, SIWE authentication, and Telegram-integrated actions for streamlined coordination.  
-🔗 https://openescrow.smarthinking.tech/
+### Contributions
+- Designed and developed Solidity smart contracts for escrow creation, milestone approval, fund release, and dispute workflows
+- Integrated contracts with backend and frontend services
+- Implemented wallet-based authentication and blockchain event handling
+- Built PostgreSQL-backed backend services
+- Added Telegram-integrated actions and supporting infrastructure
+- Implemented automated testing and deployment workflows
+- Designed the overall system architecture while remaining hands-on with implementation
 
-✅ **Solidity_Audit_AI_Assistant** – An AI-powered Solidity security analysis tool that reviews GitHub repositories or deployed contract addresses to identify vulnerabilities, generate risk assessments, and provide remediation guidance for more secure smart contract development.
-
-**Skills:** Solidity · TypeScript · Next.js · Fastify · PostgreSQL · Smart Contract Security · AI Agents · LLM Integration · Hardhat · OpenZeppelin · Telegram Bots
-
-
-### 💽 Crypto Automation AI Crew (Bots): 
-
-**A) Arbitrage Bot**  
-**B) Solana Snipper Bot**  
-**C) Hyperliquid MarketMaker Bot**  
-**D) Hyperliquid MicroTrader Bot**  
-
-Jul 2024 - Present.          
-*Associated with Smart Thinking Computer Systems*  
-- AI-Driven Crypto Trading & Market Analysis Team 
-
-A powerful AI-driven team designed for crypto trading and market analysis, capable of working independently or collaboratively to optimize trading strategies. Our AI solutions include: 
-
-✅ Solana AI Trader: Automated AI-based trading on the Solana blockchain.  
-✅ AI DEX Arbitrage Bot: Finds and executes profitable arbitrage opportunities across DEXs.  
-✅ DEX Telegram Bot with AI Operator: AI-powered trading bot integrated with Telegram for real-time execution.  
-✅ AI Market Analyzer Bot: Analyzes market trends and price movements for strategic insights.  
-✅ Built and refined automated trading bots for the Hyperliquid ecosystem, including market-making and micro-trading strategies. 
-
-- Focused on execution speed, order management, risk controls, and real-time market analysis to improve trading performance and automation reliability. 
-- Explored AI-assisted strategy optimization and bot orchestration for scalable crypto trading operations.
-- Revolutionizing crypto trading and automation with AI-powered.
-
-**Skills:** Artificial Intelligence (AI) · Python (Programming Language) · Django · Large Language Models (LLM) · TypeScript · Solidity · Smart Contracts · Algorithmic Trading · Crypto Automation.
-
-
-### 💽 CrowdSwap DEX Aggregator + Support Bot AI Agent
-Nov 2022 - March 2024.
-*Associated with IT-Street Company*  
-🔗 https://app.crowdswap.org/exchange
-
-✅ CrowdSwap DEX aggregator: best-price-routing and aggregation protocol for decentralized finance (DeFi).
-✅ Support Bot: A 24/7 AI‑powered assistant for Discord users.
-
-**Skills:** TypeScript · Solidity · Smart Contracts . Python (Programming Language) · Django · Large Language Models (LLM).
-
-
-### 💽 T-Top App
-Oct 2020 - Nov 2022.  
-*Associated with T-Top*
-
-- An onLine marketplace platform connecting buyers and sellers, offering intuitive tools for seamless store creation.
-
-**Skills:** BlockChain · Database Design · Python (Programming Language) · Transact-SQL (T-SQL) · Django · Agile Methodologies · Software Development · Scrum · Linux.
-
-
-### 💽 Timash
-Mar 2019 - Jun 2020.  
-*Associated with Azaran Setareh Tirazees*  
-
-- An onLine Shopping Application For Mobile Users.
-
-**Skills:** Database Design · Python (Programming Language) · Transact-SQL (T-SQL) · Django · Agile Methodologies · Software Development · Scrum · Linux.
-
-
-### 💽 Management Information System & Software Automation For Chicken Slaughter Factories
-May 2011 - Jun 2015.  
-*Associated with Simin Software Co.*  
-
-- Management Information System & Software Automation For Chicken Slaughter Factories
-
-**Skills:** Database Design · Transact-SQL (T-SQL) · Software Development · Borland Delphi · Microsoft SQL Server
-
-
-### 💽 Accounting Software For Enterprise Organizations
-Mar 2008 - Mar 2011.  
-*Associated with Simin Software Co.*
-
-- A Microsoft Windows base Accounting Software For Organizations for Enterprise 
-
-**Skills:** Transact-SQL (T-SQL) · Software Development · Borland Delphi · Microsoft SQL Server
-
-
-### 💽 Product Management Software For Agriculture Companies
-Mar 2000 - Feb 2004.  
-*Associated with Simin Software Co.*  
-
-- Product Management Software For Agriculture Companies
-
-**Skills:** Transact-SQL (T-SQL) · Software Development · Borland Delphi
+### Stack
+`Solidity` `Hardhat` `OpenZeppelin` `TypeScript` `Fastify` `PostgreSQL` `Next.js` `Docker` `Ethereum`
 
 ---
 
-## 🎓 Certifications
+## 🛡️ Solidity Smart Contract Security & Audit Platform
+**Associated with SmartThinking**
 
-- 📜 [**Practical Multi AI Agents and Advanced Use Cases with CrewAI**](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f) – DeepLearning.AI, May 2025  
-- 📜 [**Multi AI Agent Systems with CrewAI**](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481) – DeepLearning.AI, Mar 2025   
-- 📜 [**AI & Prompt Engineering Fundamentals**](https://omp.dub.ai/certificate/2k2uZU1faFA4#) – Dubai Centre for Artificial Intelligence, 2025  
-- 📜 [**ChatGPT Prompt Engineering for Developers**](https://learn.deeplearning.ai/accomplishments/e67839ab-3652-4d20-9dda-f2a222cce3a2) – DeepLearning.AI, 2025  
-- 📜**BlockChain Developer BootCamp** – ConsenSys Academy, 2021
-- 📜 [**BlockChain Developer**](https://confirm.udacity.com/UMLX4ARW) – Udacity, Oct. 2021    
-**Skills:** Solidity · Smart Contracts · BlockChain. 
-- 📜 [**BlockChain Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/JV5VH8Y2X6N2) – Coursera (University at Buffalo), Feb. 2019 – Credential ID JV5VH8Y2X6N2    
-**Skills:** Solidity · Smart Contracts · BlockChain
-- 📜 [**BlockChain Platforms**](https://www.coursera.org/account/accomplishments/certificate/B74BCUD7D7LG) – Coursera (University at Buffalo), Feb. 2019 – Credential ID B74BCUD7D7LG    
-**Skills:** Solidity · Smart Contracts · BlockChain. 
-- 📜 [**Decentralized Applications**](https://www.coursera.org/account/accomplishments/verify/ZYTQKH2ASS6Z) – Coursera (University at Buffalo), Dec. 2018 – Credential ID ZYTQKH2ASS6Z    
-**Skills:** Solidity · Smart Contracts · BlockChain.
-- 📜 [**Smart Contracts**](https://www.coursera.org/account/accomplishments/verify/AS5B9TJ9BN7Z) – Coursera (University at Buffalo), Nov. 2018 – Credential ID AS5B9TJ9BN7Z    
-**Skills:** Solidity · Smart Contracts · BlockChain.
-- 📜 [**BlockChain Basics**](https://www.coursera.org/account/accomplishments/verify/K2BLX95XK6UX) – Coursera (University at Buffalo), Oct. 2018 – Credential ID K2BLX95XK6UX    
-**Skills:** Solidity · Smart Contracts · BlockChain.
-- 📜 [**Certificate of Completion: Java Course**](http://www.sololearn.com/Profile/424166/) – Sololearn, Jun 2016 – Credential ID 1068-424166    
-- 📜 [**Programming Cloud Services for Android Handheld Systems: Security**](https://www.coursera.org/account/accomplishments/verify/WE4Z8FP34N) – Coursera, Sep. 2015 – Credential ID WE4Z8FP34N  
-- 📜 [**Programming Cloud Services for Android Handheld Systems: Spring**](https://www.coursera.org/account/accomplishments/verify/N9DM5BWWZD) – Coursera, Jul. 2015 – Credential ID N9DM5BWWZD   
-- 📜 [**Programming Mobile Services for Android Handheld Systems: Communication**](https://www.coursera.org/account/accomplishments/verify/BESBCYPWD7) – Coursera, Jun. 2015 – Credential ID BESBCYPWD7    
-- 📜 [**Programming Mobile Services for Android Handheld Systems: Concurrency**](https://www.coursera.org/account/accomplishments/verify/5LVVWCYEYB) – Coursera, Apr 2015 – Credential ID 5LVVWCYEYB    
-- 📜 [**Programming Mobile Applications for Android Handheld Systems**](https://www.coursera.org/account/accomplishments/verify/ZYVB5NGKRF) – Coursera, Nov 2014 – Credential ID ZYVB5NGKRF   
+Repository: https://github.com/baties/solidity-audit-assistant
+
+Security analysis platform for Solidity repositories and verified EVM contracts.
+
+### Contributions
+- Designed deterministic static-analysis checks for smart contract vulnerabilities
+- Added AI-assisted analysis to complement rule-based scanning
+- Implemented severity-ranked findings and remediation guidance
+- Added multi-chain EVM contract analysis
+- Designed API-based workflows for automation and CI/CD integration
+- Built the platform as a developer-oriented security engineering tool
+
+### Stack
+`Solidity` `TypeScript` `Blockchain Security` `EVM` `AI-assisted Analysis` `Docker` `REST API`
 
 ---
 
-## 💼 Experiences 
+## 🔄 CrowdSwap DEX Aggregator
+**Associated with IT-Street GmbH**  
+**Nov 2022 – Mar 2024**
 
-### 🕵️‍♂️ Blockchain Team Lead - CTO
-***Smart Thinking Computer Systems*** · Full-time.  
-Jun 2024 to Present · 1 yr 1 mo.  
-Dubai, United Arab Emirates · Hybrid
+Project: https://crowdswap.org
 
-- Designed and developed secure, scalable blockchain solutions integrating AI-enhanced security protocols. 
-- Created and audited Solidity smart contracts, implementing AI-powered security analysis to detect vulnerabilities. 
-- Researched and implemented AI-driven automation tools to improve blockchain security monitoring. 
-- Built and optimized AI Agents to assist in smart contract auditing and blockchain threat detection. 
-- Provided expert consultation on Web3 security best practices and AI integrations in blockchain applications.
+Worked as a senior blockchain developer on CrowdSwap, a commercial DeFi DEX aggregator supporting swaps and cross-chain functionality.
 
-**Skills:** Artificial Intelligence (AI) · Node.js · Decentralized Applications (DApps) · Ethereum · Solidity · Security · TypeScript · BlockChain · Back-End Web Development.
+### Contributions
+- Developed, integrated, and deployed Solidity smart contracts
+- Contributed to DeFi swap and cross-chain functionality
+- Worked across EVM-compatible networks and Layer 2 environments
+- Performed contract debugging and on-chain transaction analysis
+- Integrated smart contracts with TypeScript-based backend services
+- Participated in testing, code review, deployment, troubleshooting, and production support
 
+### Tools
+`Solidity` `Smart Contracts` `DeFi` `EVM` `TypeScript` `Hardhat` `Tenderly` `Etherscan`
 
-### 👨‍🎨 Blockchain Developer
-***IT-Street GmbH*** · Full-time.  
-Nov 2022 to Mar 2024 · 1 yr 5 mos.   
-Cologne, North Rhine-Westphalia, Germany · Remote. 
-
-- Blockchain Developer in one of the Best DeFi Project : [CrowdSwap](https://crowdswap.org)
-- Application (CrowdSwap Dex/Aggregator) : [CrowdSwap](https://crowdswap.org)
-- Defi Opportunities, Swaps & Cross-Chain Swaps
-
-**Skills:** Blockchain · Node.js · Object Oriented Design · Decentralized Applications (DApps) · Ethereum · Databases · Solidity · Object-Oriented Programming (OOP) · TypeScript · JavaScript · Back-End Web Development · Code Review · Smart Contracts.
-
-
-### 👨‍🎨 Blockchain Developer
-***Freelance***  
-May 2019 to Dec 2022 · 3 yrs 8 mos.
-
-* Researched secure technologies for scalability and security of transactions, including blockchain technologies such as Bitcoin and Ethereum.
-* Performed client assessment and analyzed suggestions to advise on suitable technologies to implement in blockchain services. 
-* Defined structure of blockchain development and specified access controls and security requirements for applications.
-
-**Skills:** Pandas (Software) · Node.js · Object Oriented Design · Decentralized Applications (DApps) · Django · Python (Programming Language) · Ethereum · Transact-SQL (T-SQL) · Solidity · Object-Oriented Programming (OOP) · Security · BlockChain · Linux · JavaScript · Smart Contracts.
-
-
-### 👨‍✈️ Chief Technology Officer & Scrum Master
-***T-Top*** · Full-time.  
-Oct 2020 to Nov 2022 · 2 yrs 2 mos.  
-Tehran, Iran
-
-* Collaborated with the senior IT developers to develop, initiate, and deploy an e-marketing project.
-* Put together an Agile team and administered Scrum processes such as sprint planning, increasing the team output by 50%.
-* Design a Decentralized Application (DApp) for deploying a BlockChain Supply Chain project.
-
-**Skills:** Object Oriented Design · Django · Python (Programming Language) · Transact-SQL (T-SQL) · Databases · Solidity · SQL · Object-Oriented Programming (OOP) · Security · Database Design · BlockChain · Scrum · Linux · Software Development · Back-End Web Development · Code Review · Agile Methodologies · Smart Contracts
-
-
-### 👨‍✈️ Chief Technology Officer
-***Azaran Setareh Tirazees***  
-Dec 2018 to Jun 2020 · 1 yr 7 mos. 
-
-* Monitored and analyzed technology performance, identifying solutions to solve problems with computer systems, efficiency, and utilization of resources.
-* Design and Implement a Web Base Platform for Online Shopping and E-Commerce.
-
-**Skills:** Object Oriented Design · Django · Python (Programming Language) · Transact-SQL (T-SQL) · Databases · SQL · Object-Oriented Programming (OOP) · Security · Database Design · Scrum · Linux · Software Development · Back-End Web Development · Code Review · Agile Methodologies.
-
-
-### 🤴 IT Project Manager - Software Developer - Network Expert - Security Manager - Database Designer
-***Simin Software Co.***  
-Dec 2000 to Mar 2019 · 18 yrs 4 mos. 
-
-* Design Database Structure for Enterprise Applications and MIS Projects.
-* Analyse, Design & Implement long scale MIS.
-* SQL Server Database Design and Administration for Enterprise Companies & Organizations.
-* Software Development with Borland Delphi for Desktop Users.
-
-**Skills:** Computer Security · Microsoft SQL Server · Network Security · Object Oriented Design · Django · Python (Programming Language) · Transact-SQL (T-SQL) · Databases · Penetration Testing · SQL · Object-Oriented Programming (OOP) · Security · VoIP · Database Design · Scrum · Borland Delphi · Software Development · Agile Methodologies.
-
-
-### ComaNet
-***ComaNet Internet***  
-Apr 1998 to Mar 2000 · 2 yrs.  
-Shiraz  
-Internet Service Provider 
-
-- Design and Setup Network Hardware
-- Setup and Implement Network Monitoring and Routing Software
-
-**Skills:** Computer Security · Firewalls · Network Security · Network Administration · Penetration Testing · Security · Network Engineering · Cisco Network Devices · Networking.
-
-
-### Software Engineer
-***Sadra Computer*** · Full-time  
-Dec 1995 to Apr 1998 · 2 yrs 5 mos.  
-
-**Skills:** Computer Security · Network Administration · Security · Software Development.
-
-
-### Software Application Developer 
-***C.C.L. Company*** · Full-time  
-Apr 1993 to Sep 1995 · 2 yrs 6 mos.  
-Tehran, Iran  
-
-**Skills:** Computer Security · Software Development.
+> CrowdSwap is owned by IT-Street GmbH. My involvement was as a blockchain developer during my employment there.
 
 ---
 
-## 📖 Education
+## 🧠 AI Interview — AI-Powered Career Preparation Platform
+**Associated with SmartThinking**
 
-***Mazandaran University of Science and Technology***  
-Bachelor, Chemistry
-1988 - 1992
+Live platform: https://ainterview.smarthinking.tech/
 
-- Activities and societies: American Chemical Society
+Closed-source product that helps users evaluate job opportunities against their resume and professional profile.
 
-**Shiraz University E-Learning Center**
-Bachelor of Engineering, Computer Software Engineering
-2001 - 2005
+### Contributions
+- Designed AI-assisted resume and profile analysis workflows
+- Built job-description matching and skill-gap detection processes
+- Implemented personalized course and learning recommendations
+- Developed interview preparation and mock-interview workflows
+- Integrated AI services for contextual coaching and assessment
+- Built backend services for user profiles, resumes, jobs, courses, interviews, and support workflows
 
----
-
-## 🌍 Connect with Me
-
-- ⛓️ [LinkTree](https://linktr.ee/batis.abhari)
-- 💼 [LinkedIn](https://www.linkedin.com/in/batisabhari)
-- 🌐 [Portfolio](https://bold.pro/my/batis-abhari/194r)
-- 🐦 [Telegram](https://t.me/Batees)
-- 📧 Email: [abhari.batis@gmail.com](mailto:abhari.batis@gmail.com)
+### Stack
+`Artificial Intelligence` `AI Agents` `LLM Integration` `Python` `Backend Development` `Databases` `System Architecture`
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Hyperliquid Market-Making & Risk-Control Trading Bot
+**Associated with SmartThinking**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=baties&show_icons=true&theme=radical&cache_seconds=3600)
+Repository: https://github.com/baties/Hyperliquid-Delta_Neutral-TBot
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baties&layout=compact&theme=radical&cache_seconds=3600)
+Python-based automated market-making and trading infrastructure for Hyperliquid.
+
+### Contributions
+- Designed automated execution and market-making logic
+- Implemented position and exposure controls
+- Added drawdown, liquidity, volatility, and emergency risk protections
+- Integrated real-time market monitoring through APIs and WebSocket data
+- Added Telegram-based monitoring, alerts, and operational controls
+- Supported testnet, paper-trading, and controlled live-execution workflows
+
+### Stack
+`Python` `Blockchain` `DeFi` `System Architecture` `Docker` `WebSocket` `Risk Controls`
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaboration opportunities.
+## 🤖 Smart Contract Security with Multi-Agent AI
+**Associated with SmartThinking**
+
+Repository: https://github.com/baties/Smart-Contract-Security
+
+Open-source smart contract security framework using a six-agent AI auditing pipeline.
+
+### Pipeline
+1. **Planner** — maps trust boundaries, value flows, and external calls
+2. **Static Analyst** — identifies code patterns and static-analysis-style findings
+3. **Vulnerability Hunter** — performs adversarial vulnerability analysis
+4. **Exploit Crafter** — builds structured attack scenarios
+5. **Verification Agent** — challenges findings and reduces false positives
+6. **Report Writer** — generates a structured professional audit report
+
+### Focus Areas
+- Reentrancy
+- Access control
+- Arithmetic issues
+- Logic errors
+- Economic attack surfaces
+- Denial-of-service vectors
+- Adversarial reasoning
+- Attack modeling
+- Finding verification
+- Remediation guidance
+
+### Stack
+`Solidity` `Blockchain Security` `CrewAI` `AI Agents` `LLM Integration` `Python`
+
+---
+
+## 🧭 Working Style
+
+I work as a **hands-on technical lead**: I can guide architecture and engineering decisions while staying directly involved in implementation, code review, debugging, security analysis, and delivery.
+
+# 💼 Professional Experience
+
+## Smart Contract Technical Lead | Senior Solidity Engineer
+**SmartThinking — Self-employed**  
+**Jun 2024 – Present | Remote**
+
+- Lead blockchain and smart contract development with a hands-on focus on Solidity, EVM architecture, security, and technical delivery
+- Design, develop, review, and deploy Solidity smart contracts
+- Build blockchain security and auditing workflows, including AI-assisted analysis
+- Design Web3 backend integrations using Python, TypeScript, Node.js, and related infrastructure
+- Develop blockchain automation and crypto-market tooling
+- Provide technical guidance on architecture, security practices, and system design
+- Remain directly involved in development, debugging, review, and delivery
+
+---
+
+## Senior Blockchain & Solidity Developer
+**IT-Street GmbH**  
+**Nov 2022 – Mar 2024 | Remote**
+
+- Worked on CrowdSwap, a DeFi DEX aggregator
+- Developed, integrated, and deployed Solidity smart contracts
+- Contributed to swap and cross-chain functionality across EVM networks
+- Performed debugging and transaction analysis with Hardhat, Tenderly, and Etherscan
+- Integrated blockchain components with TypeScript-based backend services
+- Participated in testing, code review, deployment, and production troubleshooting
+
+---
+
+## Blockchain & Smart Contract Consultant
+**Freelance**  
+**May 2019 – Dec 2022 | Remote**
+
+- Designed and developed Solidity-based smart contracts and Web3 components
+- Advised clients on blockchain architecture, security, access control, and implementation
+- Researched Ethereum, Bitcoin, EVM networks, scalability, and blockchain security
+- Supported backend integration using Python, Django, Node.js, databases, and APIs
+- Reviewed blockchain solutions for technical feasibility and deployment readiness
+
+---
+
+## Technical Lead & Senior Software Engineer
+**T-Top**  
+**Oct 2020 – Nov 2022 | Tehran, Iran**
+
+- Led technical design and software delivery across backend, blockchain, and distributed application projects
+- Designed systems using Python, Django REST Framework, PostgreSQL, and Docker
+- Designed a blockchain-based supply-chain DApp and its application architecture
+- Guided developers through technical planning, code review, debugging, and delivery
+- Applied Agile and Scrum practices for team coordination
+
+---
+
+## Technical Lead & System Architect
+**Azaran Setareh Tirazees**  
+**Dec 2018 – Jun 2020 | Shiraz, Iran**
+
+- Led software architecture and technical delivery for web-based business applications
+- Designed backend systems using Python, Django, and relational databases
+- Designed application architecture, database structures, and system integrations
+- Led technical implementation, testing, deployment, and troubleshooting
+- Supported engineering teams with technical decisions and code review
+
+---
+
+## Lead Software Engineer & Technical Director
+**Simin Software Co.**
+
+- Led the design and development of enterprise software, database systems, and internal business platforms
+- Designed and implemented enterprise MIS and business applications
+- Designed and administered Microsoft SQL Server databases
+- Developed software using Delphi, SQL, and related technologies
+- Led architecture, database design, troubleshooting, and development teams
+
+---
+
+# 🎓 Certifications & Professional Development
+
+Selected certifications most relevant to my current work:
+
+- **Blockchain Developer BootCamp** — ConsenSys Academy, 2021
+- **[Blockchain Developer](https://confirm.udacity.com/UMLX4ARW)** — Udacity, 2021
+- **[Blockchain Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JV5VH8Y2X6N2)** — University at Buffalo / Coursera, 2019
+- **[Practical Multi AI Agents and Advanced Use Cases with CrewAI](https://learn.deeplearning.ai/accomplishments/2d30f3ff-e774-4b39-94af-bf414f87c02f)** — DeepLearning.AI, 2025
+- **[Multi AI Agent Systems with CrewAI](https://learn.deeplearning.ai/accomplishments/e1b45fce-b8de-4e51-8b54-853b92efc481)** — DeepLearning.AI, 2025
+- **[AI & Prompt Engineering Fundamentals](https://omp.dub.ai/certificate/2k2uZU1faFA4#)** — Dubai Centre for Artificial Intelligence, 2025
+- **[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/accomplishments/e67839ab-3652-4d20-9dda-f2a222cce3a2)** — DeepLearning.AI, 2025
+
+---
+
+# 📚 Education
+
+- **BSc — Computer Engineering, Software Technology**  
+  Shiraz University E-Learning Center
+
+- **BSc — Chemistry**  
+  Mazandaran University of Science
+
+---
+
+# 🎯 Target Opportunities
+
+Open to **remote** technical leadership, senior engineering, consulting, contract, freelance, part-time, and full-time opportunities with international teams.
+
+Primary target roles:
+
+- Smart Contract Technical Lead
+- Senior Solidity Engineer
+- Blockchain Technical Lead
+- Smart Contract Security Engineer
+- Blockchain Consultant
+
+---
+
+# 🔗 Connect
+
+- LinkedIn: https://www.linkedin.com/in/batisabhari/
+- GitHub: https://github.com/baties
+- SmartThinking: https://www.smarthinking.tech/
+- AI Interview: https://ainterview.smarthinking.tech/
